@@ -1,0 +1,3 @@
+Criar atalhos de pastas
+pelo Terminal, ir para o local da pasta desejada
+ln -s "nome da pasta" "local desejado para o atalho"

@@ -1,0 +1,2 @@
+pidof dontstarve_steam
+kill -15 3216

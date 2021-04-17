@@ -1,0 +1,7 @@
+Criar atalhos Ubuntu
+Pelo terminal entrar na pasta:
+nautilus /usr/share/applications/
+ou
+nautilus /var/lib/snapd/desktop/applications/
+
+Copiar o atalho requerido pro Desktop e com botao direito "Allow execution as a Program"

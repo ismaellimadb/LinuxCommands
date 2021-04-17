@@ -1,0 +1,3 @@
+#!/bin/bash
+cd /home/ismael/Desktop/Crosslink/Others/jTimeSched-1.1
+./jTimeSched.sh

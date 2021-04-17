@@ -1,0 +1,5 @@
+To enable screen magnifier in Ubuntu:
+
+Open Dconf Editor, then navigate to org/gnome/desktop/a11y/applications.
+
+There turn on the toggle for “screen-magnifier-enabled”.
